@@ -26,3 +26,5 @@ learn to
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQeury-blue?style=flat-square&logo=jQuery&logoColor=007396"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JSP-red?style=flat-square&logo=oracle&logoColor=007396"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJKYUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
